@@ -1,0 +1,11 @@
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.ColorResultForm.resources
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.LocationResultForm.resources
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.StartForm.resources
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.Properties.Resources.resources
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.TestForm.resources
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.csproj.GenerateResource.cache
+C:\Users\mds98\Desktop\Moondo.exe.config
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.exe
+C:\Users\mds98\Desktop\가구배치\Moondo\obj\Release\Moondo.pdb
+C:\Users\mds98\Desktop\Moondo.exe
+C:\Users\mds98\Desktop\Moondo.pdb
